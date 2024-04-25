@@ -24,7 +24,7 @@ class Car {
   
   let rental1 = new Rental(car1, '2022-01-01', '2022-01-10');
   let rentalDuration = rental1.calculateRentalDuration();
-console.log(rentalDuration); // Output will be the number of days between the start and end date
+console.log(rentalDuration); // 
 
 class questions {
     constructor(text, options,correctAnswer) {
